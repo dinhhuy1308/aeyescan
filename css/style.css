@@ -1,13 +1,8 @@
 /* Global CSS */
 :root {
-    /* --font: "Arial", sans-serif, "Arial", "Helvetica", sans-serif; */
-    /* --maincolor: rgba(111, 145, 173, 1); */
     --mainColor: #F4F7F9;
     --secondColor: rgba(111, 145, 173, 1);
     --textColor: #2A2A2A;
-    /* --threeColor: #FFB530; */
-    /* --fourColor: #DA6A60; */
-    /* --textColorPlahoder: #ABABAB; */
 }
 
 .container {
